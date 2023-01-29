@@ -1,5 +1,6 @@
 # A small Bloc Demo with very good CLI
 
+This project using Flutter Stable 3.3.1
 A small demo use bloc package with freezed and template for bloc project.
 
 ![demo](images/demo.gif)
