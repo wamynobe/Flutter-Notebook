@@ -46,7 +46,7 @@ class _OverFlowTextFormFieldState extends State<OverFlowTextFormField> {
       widget.textEllipsisController!.text = widget.textController.text;
     }
     //first time render need this postFrameCallback to render text
-    //overflow ellipse
+    //overflow ellipsis
     WidgetsBinding.instance?.addPostFrameCallback(
       (timeStamp) async {
         final replaceIndex = _getReplaceIndex(
@@ -98,7 +98,7 @@ class _OverFlowTextFormFieldState extends State<OverFlowTextFormField> {
           });
         } else {
           //when focus text field set value to the value
-          //before make short with ellipse overflow
+          //before make short with ellipsis overflow
           widget.textEllipsisController?.text = currentStringValue;
         }
         setState(() {
