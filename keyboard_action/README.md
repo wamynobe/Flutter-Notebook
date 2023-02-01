@@ -7,7 +7,8 @@ keyboard toolbar.
 
 This demo is the most basic implementation. You guys can customize it to fit your own project.
 
-Checkout Overflow Text Form Field demo [here]('https://github.com/wamynobe/Flutter-Notebook/tree/main/overflow_text_field')
+Checkout Overflow Text Form Field demo [here](https://github.com/wamynobe/Flutter-Notebook/tree/main/overflow_text_field)
+
 
 <img src="images/demo.gif" height="448" width="210">
 
